@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1584566813 source:c:\users\aleja\onedrive\desktop\homework\irmaproject\testcase01.c
+	<stdio.h>
+	<stdlib.h>
+	"IrmaMoves.h"
+
+1584566813 c:\users\aleja\onedrive\desktop\homework\irmaproject\irmamoves.h
+
+1584566813 source:c:\users\aleja\onedrive\desktop\homework\irmaproject\testcase02.c
+	<stdio.h>
+	<stdlib.h>
+	"IrmaMoves.h"
+
+1584566813 source:c:\users\aleja\onedrive\desktop\homework\irmaproject\testcase03.c
+	<stdio.h>
+	<stdlib.h>
+	"IrmaMoves.h"
+
+1585285982 source:c:\users\aleja\onedrive\desktop\homework\irmaproject\irmamoves.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"IrmaMoves.h"
+
